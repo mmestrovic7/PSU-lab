@@ -1,0 +1,8 @@
+pandas
+scipy
+matplotlib
+tensorflow
+disutils
+setuptools
+scikit-learn
+
